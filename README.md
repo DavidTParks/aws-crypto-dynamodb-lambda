@@ -1,1 +1,1 @@
-# aws-crypto-dynamodb-lambda
+# AWS Lambda/DynamoDB Function for CoinMarketCap 
